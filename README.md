@@ -1,4 +1,4 @@
-# appContactForm
+# appContactForm-nodejs
 Email App Contact Form request and sends info as Name, adress, zipcode, etc
 
 Para que funcione necesitas instalar:
@@ -19,4 +19,3 @@ or you can also
 
 And point your browser to `http://localhost:3000`. Optionally, specify
 a port by supplying the `PORT` env variable.
-# appContactForm-nodejs
